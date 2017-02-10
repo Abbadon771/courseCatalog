@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abbadon\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Abbadon\AndroidStudioProjects\jsnorcross_hw2\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_f572fd4d52273387f40b4e3fe18cc232d7588584\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abbadon\AndroidStudioProjects\jsnorcross_hw2\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\Abbadon\AndroidStudioProjects\jsnorcross_hw2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_4597d673ddbd82330d4cd0db9df150fe57c11ca6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abbadon\AndroidStudioProjects\jsnorcross_hw2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Abbadon\AndroidStudioProjects\jsnorcross_hw2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_4a69ec8e73f7121507436e75a7f9b0e31f0a8796\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abbadon\AndroidStudioProjects\jsnorcross_hw2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Abbadon\AndroidStudioProjects\jsnorcross_hw2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_0607578c5defce4ed3df33b75e303d5cc19dbff9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abbadon\AndroidStudioProjects\jsnorcross_hw2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Abbadon\AndroidStudioProjects\jsnorcross_hw2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_09e32fdff5fd854a70d42986646022a0ca8e70a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abbadon\AndroidStudioProjects\jsnorcross_hw2\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\Abbadon\AndroidStudioProjects\jsnorcross_hw2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_f8414feab45d78d20cfbe800e0f8188dd2d1546e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abbadon\AndroidStudioProjects\jsnorcross_hw2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Abbadon\AndroidStudioProjects\jsnorcross_hw2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_e0d675048a75d4f0a1a24c7e95b366075e0f98be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abbadon\AndroidStudioProjects\jsnorcross_hw2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Abbadon\AndroidStudioProjects\jsnorcross_hw2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_b06d19ec46da7ed55e4d5d831d0c7b0b7f670460\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abbadon\AndroidStudioProjects\jsnorcross_hw2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Abbadon\AndroidStudioProjects\jsnorcross_hw2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_1121eb65140d588eac91a1b8f28ff0ad645a1728\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abbadon\AndroidStudioProjects\jsnorcross_hw2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Abbadon\AndroidStudioProjects\jsnorcross_hw2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_1fafca75709a98096122a147b06209da214d0960\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abbadon\AndroidStudioProjects\jsnorcross_hw2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Abbadon\AndroidStudioProjects\jsnorcross_hw2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_ddfb82298e40c1707905c31a1fc3d0c0bfb303b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abbadon\AndroidStudioProjects\jsnorcross_hw2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="888fe16381525b3e8523b73fa32e693f5c7d3481">
+        <dex dex="C:\Users\Abbadon\AndroidStudioProjects\jsnorcross_hw2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_cc93ccd4405b82e6f63cc0188eb25a2d621fd351\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abbadon\AndroidStudioProjects\jsnorcross_hw2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Abbadon\AndroidStudioProjects\jsnorcross_hw2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_7c3d98846152bb3cf448daba1f49b67800c5d029\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abbadon\AndroidStudioProjects\jsnorcross_hw2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f68c7516e615f98a0e6038c268ac23529b214511">
+        <dex dex="C:\Users\Abbadon\AndroidStudioProjects\jsnorcross_hw2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_89b36a5d74c817ccba6ec9d11785bed18ab8b303\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abbadon\AndroidStudioProjects\jsnorcross_hw2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Abbadon\AndroidStudioProjects\jsnorcross_hw2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_5f77fb11a38bb20f472978db5b9f7e1c03501e0e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abbadon\AndroidStudioProjects\jsnorcross_hw2\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Abbadon\AndroidStudioProjects\jsnorcross_hw2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_f0123ae0546616f31e988e8fbec7a078b0458eb9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abbadon\AndroidStudioProjects\jsnorcross_hw2\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Abbadon\AndroidStudioProjects\jsnorcross_hw2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_a85aeb1ec788631cfa8220e0ac593cb98d35d079\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abbadon\AndroidStudioProjects\jsnorcross_hw2\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Abbadon\AndroidStudioProjects\jsnorcross_hw2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_6b8ee242bc5fe7e7fb6834037e9f0e38b26de7ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abbadon\AndroidStudioProjects\jsnorcross_hw2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Abbadon\AndroidStudioProjects\jsnorcross_hw2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_7b6370840035936899ce3b3be725a5c21dddb8da\classes.dex" />
+    </item>
+
+</items>
